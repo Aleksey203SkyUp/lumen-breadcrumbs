@@ -7,7 +7,7 @@ use DaveJamesMiller\Breadcrumbs\Exceptions\InvalidBreadcrumbException;
 use DaveJamesMiller\Breadcrumbs\Exceptions\UnnamedRouteException;
 use DaveJamesMiller\Breadcrumbs\Exceptions\ViewNotSetException;
 use Illuminate\Contracts\View\Factory as ViewFactory;
-use Illuminate\Routing\Router;
+use Laravel\Lumen\Routing\Router;
 use Illuminate\Support\Collection;
 use Illuminate\Support\HtmlString;
 use Illuminate\Support\Traits\Macroable;

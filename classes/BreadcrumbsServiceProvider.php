@@ -57,7 +57,7 @@ class BreadcrumbsServiceProvider extends ServiceProvider //implements Deferrable
 
         // Publish the config/breadcrumbs.php file
         $this->publishes([
-            __DIR__ . '/../config/breadcrumbs.php' => config_path('breadcrumbs.php'),
+            __DIR__ . '/../config/breadcrumbs.php' => app()->basePath('config' . DIRECTORY_SEPARATOR . 'breadcrumbs.php'),
         ], 'breadcrumbs-config');
 
         // Load the routes/breadcrumbs.php file
