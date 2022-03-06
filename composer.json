@@ -1,10 +1,10 @@
 {
-    "name": "baravak/lumen-breadcrumbs",
+    "name": "aleksey203skyup/lumen-breadcrumbs",
     "description": "davejamesmiller/laravel-breadcrumbs lumen version",
     "keywords": [
         "laravel"
     ],
-    "homepage": "https://github.com/baravak/laravel-breadcrumbs",
+    "homepage": "https://github.com/Aleksey203SkyUp/laravel-breadcrumbs",
     "authors": [
         {
             "name": "Dave James Miller",
