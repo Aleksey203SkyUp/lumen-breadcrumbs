@@ -1,6 +1,6 @@
 <?php
 
-namespace DaveJamesMiller\Breadcrumbs;
+namespace Aleksey203SkyUp\Breadcrumbs;
 
 use DaveJamesMiller\Breadcrumbs\Exceptions\InvalidBreadcrumbException;
 use Illuminate\Support\Collection;
